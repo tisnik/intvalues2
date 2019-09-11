@@ -1,4 +1,4 @@
-package intvalues
+package intvalues2
 
 const Zero = 0
 const One = 0
